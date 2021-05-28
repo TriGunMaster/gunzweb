@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.gunzth.com/</title>
+  <link>http://www.gunzth.com/</link>
+
+<item>
+     <link>https://www.gunzth.com/</link>
+     <title>Gunz Online Thailand</title>
+     <description>Gunz Online Thailand</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.gunzth.com/index.html</link>
+     <title>Gunz Online Thailand</title>
+     <description>Gunz Online Thailand</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
